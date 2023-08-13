@@ -17,6 +17,6 @@ else if(randomNumber1<randomNumber2)
     document.querySelector("h1").style.color="green";
 }
 else{
-    document.querySelector("h1").innerHTML="Game has been draw";
+    document.querySelector("h1").innerHTML="Game has been drawn";
     document.querySelector("h1").style.color="white";
 }
